@@ -1,0 +1,22 @@
+inicio
+
+a = 4 ^ 2
+b = 3 + 3
+c = a * b
+d = raiz(25)
+
+e = 6 + 20 - 12 * 2
+f = (raiz(25) + 5) * (4 ^ 2 - 4)
+
+imprima(a)
+imprima(b)
+imprima(c)
+imprima(d)
+imprima(e)
+imprima(f)
+
+leia(g)
+imprima(g)
+
+
+fim
